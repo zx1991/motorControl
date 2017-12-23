@@ -1,0 +1,15 @@
+D:\projects\c#\motorControl\motorControl\bin\Debug\motorControl.exe.config
+D:\projects\c#\motorControl\motorControl\bin\Debug\motorControl.exe
+D:\projects\c#\motorControl\motorControl\bin\Debug\motorControl.pdb
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl.csprojResolveAssemblyReference.cache
+D:\projects\c#\motorControl\motorControl\obj\Debug\MainWindow.g.cs
+D:\projects\c#\motorControl\motorControl\obj\Debug\App.g.cs
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl_MarkupCompile.cache
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl_MarkupCompile.lref
+D:\projects\c#\motorControl\motorControl\obj\Debug\MainWindow.baml
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl.g.resources
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl.Properties.Resources.resources
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl.csproj.GenerateResource.Cache
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl.csproj.CoreCompileInputs.cache
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl.exe
+D:\projects\c#\motorControl\motorControl\obj\Debug\motorControl.pdb
